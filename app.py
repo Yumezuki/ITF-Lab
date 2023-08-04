@@ -1,3 +1,3 @@
-# Comments
-message = "Hello, ITF-Lab 2018!!!"
-print(message)
+# ITF-Lab 2018
+## Author
+อัญชิษฐา แก้วรอดฟ้า 66070223
